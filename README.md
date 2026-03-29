@@ -1,9 +1,8 @@
 # Hi, I'm Ayush Singh 👋
 
-💻 Python Developer|
-📊 Data Analytics || SQL || Power BI || Excel  
+💻 Python Developer  
+📊 Data Analytics | SQL | Power BI | Excel  
 ⚙️ Automation | Backend | Problem Solving  
-
 ---
 
 ## About Me
