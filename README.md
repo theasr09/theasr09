@@ -33,5 +33,5 @@ Python Developer || SQL || Automation || Data Analytics || Power BI || Excel || 
 ---
 
 ## Connect With Me
-LinkedIn: https://linkedin.com/in/your-link  
+LinkedIn: linkedin.com/in/ayush-singh-a9aa55255
 Email: sayhitoayush@gmail.com
