@@ -1,6 +1,6 @@
 # Hi, I'm Ayush Singh 👋
 
-💻 Python Developer
+💻 Python Developer|
 📊 Data Analytics || SQL || Power BI || Excel  
 ⚙️ Automation | Backend | Problem Solving  
 
